@@ -1,6 +1,6 @@
-#**PRÁCTICA MÓDULO EXPLORACIÓN & VISUALIZACIÓN DE DATOS CON POWER BI**
+**PRÁCTICA MÓDULO EXPLORACIÓN & VISUALIZACIÓN DE DATOS CON POWER BI**
 
-###DASHBOARD SUPERSTORE SALES USA
+DASHBOARD SUPERSTORE SALES USA
 
 <div style="text-align: justify;">
 En el presente dashboard, creado con Power BI, se evalúan diferentes métricas que pueden ayudar a responder preguntas estratégicas sobre el rendimiento de la venta de productos en las diferentes regiones de USA, proporcionando información clave para
